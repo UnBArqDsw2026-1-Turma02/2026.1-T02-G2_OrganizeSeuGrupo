@@ -29,3 +29,24 @@ Para iniciar o site localmente, utilize o comando:
 ```shell
 docsify serve ./docs
 ```
+
+<br>
+
+## Membros do Grupo 02
+
+<center>
+  <table style="width: 100%;">
+  <tr>
+    <td align="center"><a href="https://github.com/camilasilvac"><img style="border-radius: 50%;" src="https://github.com/camilasilvac.png" width="100%;" alt="Camila Silva"/><br /><sub><b>Camila Silva</b></sub></a></td>
+    <td align="center"><a href="https://github.com/eduardodpms"><img style="border-radius: 50%;" src="https://github.com/eduardodpms.png" width="100%;" alt="Eduardo de Pina"/><br /><sub><b>Eduardo de Pina</b></sub></a></td>
+    <td align="center"><a href="https://github.com/faehzin"><img style="border-radius: 50%;" src="https://github.com/faehzin.png" width="100%;" alt="Gabriel Fae"/><br /><sub><b>Gabriel Fae</b></sub></a></td>
+    <td align="center"><a href="https://github.com/julnox"><img style="border-radius: 50%;" src="https://github.com/julnox.png" width="100%;" alt="Júlio César"/><br /><sub><b>Júlio César</b></sub></a></td>
+    <td align="center"><a href="https://github.com/LucasAlves71"><img style="border-radius: 50%;" src="https://github.com/LucasAlves71.png" width="100%;" alt="Lucas Alves"/><br /><sub><b>Lucas Alves</b></sub></a></td>
+    <td align="center"><a href="https://github.com/luisa12ll"><img style="border-radius: 50%;" src="https://github.com/luisa12ll.png" width="100%;" alt="Luísa de Souza"/><br /><sub><b>Luísa de Souza</b></sub></a></td>
+    <td align="center"><a href="https://github.com/MarcusVcd"><img style="border-radius: 50%;" src="https://github.com/MarcusVcd.png" width="100%;" alt="Marcus Vinicius"/><br /><sub><b>Marcus Vinicius</b></sub></a></td>
+    <td align="center"><a href="https://github.com/maymarquee"><img style="border-radius: 50%;" src="https://github.com/maymarquee.png" width="100%;" alt="Mayara Marques"/><br /><sub><b>Mayara Marques</b></sub></a></td>
+    <td align="center"><a href="https://github.com/pedro-everton"><img style="border-radius: 50%;" src="https://github.com/pedro-everton.png" width="100%;" alt="Pedro Everton"/><br /><sub><b>Pedro Everton</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Acciolyy"><img style="border-radius: 50%;" src="https://github.com/Acciolyy.png" width="100%;" alt="Thiago Accioly"/><br /><sub><b>Thiago Accioly</b></sub></a></td>
+  </tr>
+  </table>
+</center>
