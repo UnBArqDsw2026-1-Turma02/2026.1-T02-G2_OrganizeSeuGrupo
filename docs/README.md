@@ -5,17 +5,19 @@
 **Entrega**: 01<br>
 
 ## Alunos
+
 |Matrícula | Aluno |
-| 232013944 | Camila Cavalcante |
-| 231034494  |  Eduardo de Pina |
-| 231011382  |  Gabriel Sampaio Fae |
-| 211031744 | Júlio César Costa |
-| 231027159 | Lucas Alves Oliveira dos Santos |
-| 232014807 | Luísa de Souza Ferreira |
-| 211031403 | Marcus Vinicius Cunha Dantas |
-| 231035731 | Mayara Marques Silva |
-| 221008768 | Pedro Everton de Paula |
-| 231029340 | Thiago Viriato Accioly |
+| -- | -- |
+| 23/2013944 | Camila Cavalcante |
+| 23/1034494  |  Eduardo de Pina |
+| 23/1011382  |  Gabriel Sampaio Fae |
+| 21/1031744 | Júlio César Costa |
+| 23/1027159 | Lucas Alves Oliveira dos Santos |
+| 23/2014807 | Luísa de Souza Ferreira |
+| 21/1031403 | Marcus Vinicius Cunha Dantas |
+| 23/1035731 | Mayara Marques Silva |
+| 22/1008768 | Pedro Everton de Paula |
+| 23/1029340 | Thiago Viriato Accioly |
 
 ## Sobre 
 
