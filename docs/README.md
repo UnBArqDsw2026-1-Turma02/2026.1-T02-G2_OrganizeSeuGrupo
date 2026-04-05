@@ -21,7 +21,7 @@
 
 ## Sobre 
 
-O OrganizeSeuGrupo é um web-app que centraliza a organização de grupos de estudo em um só lugar, reunindo estudantes, professores e vestibulandos em um ambiente estruturado e intuitivo. A plataforma permite visualizar encontros por meio de calendários interativos, com informações como data, horário, tema da sessão e participantes envolvidos. Usuários autenticados podem filtrar atividades por matéria, tags ou palavras-chave, facilitando encontrar exatamente o conteúdo que precisam revisar e as reuniões marcadas para tal!
+O OrganizeSeuGrupo é um web-app que centraliza a organização de grupos de estudo em um só lugar, reunindo estudantes, professores e vestibulandos em um ambiente estruturado e intuitivo. A plataforma permite visualizar encontros por meio de calendários interativos, com informações como data, horário, tema da sessão e participantes envolvidos. Usuários autenticados podem filtrar atividades por matéria, tags ou palavras-chave, facilitando encontrar exatamente o conteúdo que precisam revisar e as reuniões planejadas para o sua organização e aprendizado!
 
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
@@ -33,5 +33,11 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 (X) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição | Autor     |       Revisor         |
+| ------ | ---------- | --------- | --------- | --------------------- |
+| `1.0` | 05/04/2025 | Criação do documento e adicionando informações|[Luísa de Souza](https://github.com/luisa12ll) | [Lucas Alves Oliveira dos Santos](https://github.com/LucasAlves71) |
 
 

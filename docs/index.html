@@ -2,22 +2,41 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>OrganizeSeuGrupo</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <link rel="stylesheet" href="./styles/vue.css">
+  <link rel="stylesheet" href="./styles/responsividade.css">
+  
+  <style>
+    /* FORÇAR A LOGO A APARECER NO MENU COM TAMANHO MAIOR */
+    .sidebar .app-name-link img {
+      width: 300px !important; /* Aumentado para dar mais visibilidade */
+      height: auto !important;
+      display: block !important;
+      margin: 10px auto !important; /* Aumentado o espaço em volta */
+    }
+    /* ESCONDER O TEXTO QUE FICA ATRÁS DA LOGO */
+    .sidebar .app-name-link {
+      font-size: 0 !important;
+      color: transparent !important;
+    }
+  </style>
+
+  <link rel="icon" type="image/png" href="logo.png"/>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
-      name: 'Repositorio Template',
-      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/RepositorioTemplateEntrega1'
+      name: 'OrganizeSeuGrupo',
+      logo: 'logo.png', 
+      themeColor: '#1D2D44',
+      repo: 'https://github.com/UnBArqDsw2026-1-Turma02/2026.1-T02-G2_OrganizeSeuGrupo'
     }
   </script>
-  <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
