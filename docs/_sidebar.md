@@ -15,3 +15,4 @@
   - [1.4. Participações - Base](./Base/1.4.ParticipacoesBase.md)
   - [1.5. Iniciativas Extras - Base](./Base/1.5.IniciativasExtras.md)
     - [1.5.1 HeatMap](./Base/1.5.1.HeatMap)
+    - [1.5.2 Ferramentas](./Base/1.5.2.Ferramentas)
