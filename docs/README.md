@@ -35,7 +35,7 @@ O OrganizeSeuGrupo é um web-app que centraliza a organização de grupos de est
 <p align="center"><img src="assets/artefato-generalista/Unificados/rich-organize-seu-grupo.drawio.png" width="80%"></p>
 <p align="center"><b>Fonte:</b> Autoria de <a href="https://github.com/maymarquee">Mayara Marques</a>.</p>
 
-<p align="center"><strong>Figura 4: Artefato BPMN</strong></p>
+<p align="center"><strong>Figura 5 e 6: Artefato BPMN</strong></p>
 <p align="center"><img src="assets/README/bpmn.png" width="80%"></p>
 <p align="center"><img src="assets/README/bpmn-lucid.png" width="80%"></p>
 <p align="center"><b>Fonte:</b> Autoria de <a href="https://github.com/maymarquee">Mayara Marques</a>.</p>
