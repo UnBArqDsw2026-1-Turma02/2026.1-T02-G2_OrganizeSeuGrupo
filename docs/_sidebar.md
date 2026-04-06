@@ -17,3 +17,4 @@
       - [1.5.1 HeatMap](./Base/1.5.1.HeatMap)
       - [1.5.2 Ferramentas](./Base/1.5.2.Ferramentas)
       - [1.5.3 Questionário](./Base/1.5.3.Questionario.md)
+      - [1.5.4 Perfil de Usuário](./Base/1.5.4.PerfildeUsuario.md)
