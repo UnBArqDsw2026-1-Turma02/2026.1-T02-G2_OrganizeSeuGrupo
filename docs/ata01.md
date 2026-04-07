@@ -43,5 +43,3 @@
 * Todo o grupo esteve presente.
 
 ---
-
-**Dica:** Para usar esse texto em editores como Notion, GitHub ou Obsidian, basta copiar e colar o conteúdo acima. Se precisar incluir o nome das duplas específicas, é só me avisar!
